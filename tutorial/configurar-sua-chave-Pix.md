@@ -1,12 +1,12 @@
 ﻿# Configurar sua chave Pix
 
-Para utilizar o Pix é necessário configurar previamente sua chave Pix, essas chaves são utilizadas para identificar sua conta, elas podem ser CPF, CNPJ, e-mail, número de celular ou uma chave aleatória (alfanuméricos gerados aleatoriamente — utilizada caso não queira vincular seus dados pessoais às informações da sua conta). 
+Para utilizar o Pix é necessário configurar previamente sua chave, elas são utilizadas para identificar sua conta, elas podem ser CPF, CNPJ, e-mail, número de celular ou uma chave aleatória (alfanuméricos gerados aleatoriamente — utilizada caso não queira vincular seus dados pessoais às informações da sua conta). 
 
 Nesta seção é mostrado como configurar essas chaves Pix.
 
 ## Antes de você começar
 - Verifique se possui conexão com a internet
-- Verifique se possui acesso ao aplicativo móvel da sua instituição bancaria
+- Verifique se possui acesso ao aplicativo móvel da sua instituição bancária
   
 ## Procedimento
 1. Abra o aplicativo móvel da sua instituição bancária.
@@ -18,12 +18,15 @@ Nesta seção é mostrado como configurar essas chaves Pix.
 
 - CPF ou CNPJ
 - E-mail
-- Número de telefone
+- Número de celular
 - Chave aleatória
   
 4.  Após preencher os dados da sua chave, verifique as informações e clique em **Registrar chave**. 
   
-> **Obs.:** Ao escolher e-mail ou número de telefone, é necessário confirmar a informação, a instituição enviará um código por SMS ou e-mail, basta informa-lo quando for solicitado. 
+> **Obs.:** Ao escolher e-mail ou número de celular, a instituição enviará um código por SMS ou e-mail, basta informá-lo quando for solicitado. 
+
+## Informações adicionais
+Em uma instituição bancária podem ser cadastrados diversas chaves, para isso repita as etapas acima. 
 
 ## Conteúdo relacionado
   - [Tudo o que você precisa saber sobre o Pix](tudo-o-que-você-precisa-saber-sobre-o-Pix.md)
