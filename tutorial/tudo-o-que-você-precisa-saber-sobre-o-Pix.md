@@ -1,7 +1,7 @@
 ﻿# Tudo o que você precisa saber sobre o Pix
 Pix é a nova forma de pagamento criada pelo Banco Central (BC). Com ele, você pode fazer e receber transferências instantâneas, pagar contas e compras a qualquer dia e horário. Essa nova forma de pagamento, é uma alternativa rápida, segura e gratuita para transferência de dinheiro.
 
-Todas as transações são feitas online por plataformas,s como navegadores de internet e aplicativos móveis.
+Todas as transações são feitas online por plataformas, como navegadores de internet e aplicativos móveis.
 
 ## Beneficios do Pix
 O Pix traz aos usuários grandes benefícios como:
