@@ -25,7 +25,7 @@ Nesta seção é mostrado como configurar essas chaves Pix.
   
 > **Obs.:** Ao escolher e-mail ou número de telefone, é necessário confirmar a informação, a instituição enviará um código por SMS ou e-mail, basta informa-lo quando for solicitado. 
 
-
+## Conteúdo relacionado
   - [Tudo o que você precisa saber sobre o Pix](tudo-o-que-você-precisa-saber-sobre-o-Pix.md)
 
   
