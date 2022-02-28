@@ -13,7 +13,7 @@ Proponho uma estruturação das informações em que há um tópico macro que co
 ## Sobre o conteúdo criado
 O conteúdo  **Tudo o que você precisa saber sobre o Pix** é a base para o tema proposto **Configurar sua chave Pix**. 
 
-Preferi separar as informações sobre o Pix, e a ação de configurar chave, para ser mais objetivo em sanar a dúvida do usuário, atendendo minhas duas personas, uma que não sabe o que é o Pix e nem como configurar, e a outra que já sabe o que é o Pix, e apenas quer saber como configurar as chaves.
+Preferi separar as informações sobre o Pix, e a ação de configurar a chave, para ser mais objetivo em sanar a dúvida do usuário, atendendo minhas duas personas, uma que não sabe o que é o Pix e nem como configurar, e a outra que já sabe o que é o Pix, e apenas quer saber como configurar as chaves.
 
 Por separar em tópicos menores, não precisei criar a tabela de conteúdo, segui também as orientações do [Google developer documentation style guide](https://developers.google.com/style) e do livro **Redação Estratégica para UX** de _Torrey Podmajersky_. 
 
