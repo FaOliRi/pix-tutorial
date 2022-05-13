@@ -25,6 +25,9 @@ Nesta seção é mostrado como configurar essas chaves Pix.
   
 > **Obs.:** Ao escolher e-mail ou número de celular, a instituição enviará um código por SMS ou e-mail, basta informá-lo quando for solicitado. 
 
+![Etapas - Configuração da chave Pix](../img/passos-cadastro-pix.png)
+**Figura 1.** Etapas da configuração da chave Pix.
+
 ## Informações adicionais
 Em uma instituição bancária podem ser cadastrados diversas chaves, para isso repita as etapas acima. 
 
